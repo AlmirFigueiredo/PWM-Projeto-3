@@ -1,0 +1,18 @@
+introdução:
+"Olá, estamos aqui para apresentar uma solução revolucionária que transformará a experiência da sua empresa, a EducaLivros!"
+
+Problema:
+"Atualmente, a EducaLivros enfrenta várias limitações: desde a falta de um portal centralizado que dificulta a expansão e inovação, 
+até barreiras que diminuem o engajamento de alunos e professores. Isso inclui limitações nos serviços da biblioteca e uma ausência de centralização de serviços."
+
+Solução:
+"Para resolver esses desafios, desenvolvemos o Portal EducaLivros. Uma plataforma online robusta e integrada que oferece áreas restritas personalizadas para alunos, 
+professores e funcionários, além de possuir diversas outras funcionalidades, como loja online, agendamento e contratação de serviços e um sistema de biblioteca que vai desde
+o empréstimo de livros até o acesso de ebooks disponibilizados."
+
+Impacto:
+"Com esse portal, visamos melhorar significativamente a interação e o engajamento dentro da comunidade escolar, além de promover facilidades para clientes e pessoas que fazem parte 
+da instituição, por meio dos diversos recursos disponibilizados pelo nosso portal"
+
+Fechamento:
+"Agradecemos pela oportunidade de compartilhar nossa visão para um futuro mais conectado e integrado na EducaLivros. Estamos ansiosos para fazer essa jornada com vocês."
